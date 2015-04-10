@@ -54,3 +54,4 @@ boole_or(1,1,1).
 boole_not(0,1).
 boole_not(1,0).					   
 
+%check merge  
