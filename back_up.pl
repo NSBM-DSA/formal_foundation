@@ -6,7 +6,7 @@ start:-write('\n                ~~~~~Welcome to Truth Value Checker~~~~~        
 check_all_possible_truth_values :- write('\nChecking all truth values... \n'),print_all,nl,!.
 
 %print_all
-print_all :- write('method called').
+print_all :- write('method called').   
 
 %find_variables
 :- op(1000,xfy,'and').
